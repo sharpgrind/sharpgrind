@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi, sharpgrind here 👋
 
-<!--
-**sharpgrind/sharpgrind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building responsive web interfaces with TypeScript & React. Curious about design systems. Based in Singapore.
 
-Here are some ideas to get you started:
+- 🎯 This year's goal: ship something every month
+- 🧩 I like small tools that do one thing well
+- 🔭 Currently working on web performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharpgrind&hide_border=true&theme=nightowl" alt="Commit streak" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharpgrind&layout=compact&langs_count=8&hide_border=true&theme=nightowl" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/TailwindCSS-58a6ff?style=for-the-badge&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/TypeScript-58a6ff?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-58a6ff?style=for-the-badge&logoColor=white" alt="React" />
